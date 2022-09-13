@@ -3,7 +3,7 @@ ilk web sayfamı oluşturuyorum bunun icin öğrendiklerimi basit bir şekilde k
 
 ***
 
-![github](figures/ilkwebsayfam.PNG)
+!
 ***
 
 [MIT](https://choosealicense.com/licenses/mit/)
